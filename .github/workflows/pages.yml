@@ -1,4 +1,5 @@
 name: Deploy Francis site to GitHub Pages
+# force-pages-refresh
 
 on:
   push:
